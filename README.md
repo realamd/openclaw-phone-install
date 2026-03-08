@@ -49,6 +49,8 @@ curl -fsSL https://raw.githubusercontent.com/Alpha-chen/openclaw-phone-install/m
 | 5 | 安装 OpenClaw |
 | 6 | 配置防杀停保护 |
 
+注: 第一步如果提示失败，手动复制命令安装
+
 ## 🚀 安装后配置
 
 脚本执行完成后，运行以下命令完成配置：
